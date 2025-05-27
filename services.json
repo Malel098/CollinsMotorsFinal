@@ -1,0 +1,17 @@
+[
+  {
+    "service": "Car Sales",
+    "description": "Explore a wide range of vintage and modern cars at competitive prices.",
+    "priceRange": "$5,000 – $50,000"
+  },
+  {
+    "service": "Repairs & Servicing",
+    "description": "Professional automotive servicing with genuine parts and expert care.",
+    "priceRange": "$100 – $1,500"
+  },
+  {
+    "service": "Car Rentals",
+    "description": "Need a car for the weekend? Rent from our trusted fleet and enjoy the ride.",
+    "priceRange": "$50/day – $150/day"
+  }
+]
